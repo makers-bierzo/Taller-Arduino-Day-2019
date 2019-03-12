@@ -1,4 +1,4 @@
-# RECURSOS DE SALIDA de Thingerio.  
+# RECURSOS DE SALIDA de Thinger.io.  
 
 Los recursos de salida se deben usar en general cuando necesite detectar o leer un valor del sensor, como temperatura, humedad, etc. Por lo tanto, los recursos de salida son bastante útiles para extraer información del dispositivo.
 

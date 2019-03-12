@@ -1,4 +1,4 @@
-# RECURSOS DE ENTRADA de Thingerio.  
+# RECURSOS DE ENTRADA de Thinger.io.  
 
 Si necesita controlar o activar su dispositivo de IoT, es necesario definir un recurso de entrada. De esta forma, un recurso de entrada es cualquier cosa que pueda proporcionar información a su dispositivo. Por ejemplo, puede ser un recurso para encender y apagar una luz o un relé, cambiar una posición de servo, ajustar un parámetro de dispositivo, etc.
 
