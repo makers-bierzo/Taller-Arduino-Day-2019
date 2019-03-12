@@ -1,9 +1,4 @@
-# Proyectos con RECURSOS DE SALIDA de Thingerio.
-
-La placa de desarrollo utilizada es la Adafruit Feather Huzzah con **ESP8266**.  
-Como IDE uso **PlatformIO** que es un ecosistema open source para desarrollos IoT. 
-
-## Recursos de salida de Thinger.io
+# RECURSOS DE SALIDA de Thingerio.  
 
 Los recursos de salida se deben usar en general cuando necesite detectar o leer un valor del sensor, como temperatura, humedad, etc. Por lo tanto, los recursos de salida son bastante útiles para extraer información del dispositivo.
 

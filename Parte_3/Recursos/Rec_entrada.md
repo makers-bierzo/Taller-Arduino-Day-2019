@@ -1,9 +1,4 @@
-# Proyectos con RECURSOS DE ENTRADA de Thingerio.
-
-La placa de desarrollo utilizada es la Adafruit Feather Huzzah con **ESP8266**.  
-Como IDE uso **PlatformIO** que es un ecosistema open source para desarrollos IoT. 
-
-## Recursos de entrada de Thinger.io
+# RECURSOS DE ENTRADA de Thingerio.  
 
 Si necesita controlar o activar su dispositivo de IoT, es necesario definir un recurso de entrada. De esta forma, un recurso de entrada es cualquier cosa que pueda proporcionar información a su dispositivo. Por ejemplo, puede ser un recurso para encender y apagar una luz o un relé, cambiar una posición de servo, ajustar un parámetro de dispositivo, etc.
 
